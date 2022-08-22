@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Terry B. Ewell">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10717</md:content-id>
     <md:title>Music Fundamentals 3: Minor Scales and Keys</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>a7a01279-5cfc-4980-b3ec-c50f82b3f06d</md:uuid>
-<md:slug>music-fundamentals-3-minor-scales-and-keys</md:slug>
-</metadata>
+    <md:slug>music-fundamentals-3-minor-scales-and-keys</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m10856"/>
     <col:module document="m25610"/>
